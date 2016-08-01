@@ -4,4 +4,12 @@ class ball:
     self.y = y
 
     def bounceHeight(self):
+<<<<<<< HEAD
     	print "It Bounced"
+=======
+<<<<<<< HEAD
+    	print "It Bounced"
+=======
+    	print "It Bounced"
+>>>>>>> master
+>>>>>>> new-bounce
